@@ -1,0 +1,53 @@
+javascript-to give behavior to web page
+basic concept
+1. console.log - to represent data during run Time 
+2. identifiers
+3. variables
+4. data type 
+5. concantenation
+6. operators
+7. DECISION making STATEMENTS
+8.looping statements-while loop,for loop,nested loop
+9.function//specific task achive cheyyan ee funtcn il ezhuthivekkunu.compile cheyyanamenkil call cheyyanam or invoke cheyyanam
+10.
+
+ assignment operator( = )
+ var no1 = 10
+ console.log("assign operator = : no1" , no1);
+
+7. arithematic operator(+,-,*,/,%,**)
+
+console.log("no1 % (modulus) 3 =" , no1%3);
+console.log("no1 ** (exponent) 3 =" , no1**3); 10^3=10*10*10=1000
+
+8.logical operator:< > <= >= == !=
+
+console.log("no1<no2" , no1<no2);
+
+9. increment and decrement operators(++ / --)
+console.log("no1++ :",no1++);
+console.log("no1 after increment =",no1);
+
+10. short hand operator : -= += *=
+
+no1+=3  no1 = no1+3
+
+var a = 5
+var b =10
+console.log("a (before operation):" , a)
+console.log("b (before operation):" , b)
+
+console.log("a+=b :", a+=b); //a=a+b=5+10=15
+console.log("b (after operation):" , a)
+console.log("b (after operation):" , b)
+
+11. logical operator : AND OR NOT && || !
+12.increment/decrement operator : { ++ --}
+13. short hand operator  :  { +=  -=}
+
+
+
+
+
+
+
